@@ -1,0 +1,9 @@
+PDF cannot be opened and only .ipynb files can be opened. Please check the files when you submit your homework.
+
+(+5) The code has good logic and clear comments.
+
+1. (-4) Wrong logic and answer, please check the code, especially in "# 同为第一层判断a <= b".
+2. (-0) 
+3 (-5) Wrong logic and answer, please check the requirements of the problem.
+4 (-15) Wrong logic and answer. Furthermore, it lacks visualization, has code execution errors, and lacks descriptions of image visualizations. 
+5. (-0)
