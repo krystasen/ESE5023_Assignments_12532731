@@ -1,0 +1,4 @@
+(+3) Good comments and logic for each step.
+1. (-0) 
+2. (+2) Good preprocessing the data, for example, for handing the missing data and abnormal values.
+3. (-0) 
